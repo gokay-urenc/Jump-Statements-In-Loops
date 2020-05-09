@@ -1,0 +1,7 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri\Döngüler_Jump_Deyimleri\bin\Debug\Döngüler_Jump_Deyimleri.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri\Döngüler_Jump_Deyimleri\bin\Debug\Döngüler_Jump_Deyimleri.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri\Döngüler_Jump_Deyimleri\bin\Debug\Döngüler_Jump_Deyimleri.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri\Döngüler_Jump_Deyimleri\obj\Debug\Döngüler_Jump_Deyimleri.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri\Döngüler_Jump_Deyimleri\obj\Debug\Döngüler_Jump_Deyimleri.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri\Döngüler_Jump_Deyimleri\obj\Debug\Döngüler_Jump_Deyimleri.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri\Döngüler_Jump_Deyimleri\obj\Debug\Döngüler_Jump_Deyimleri.pdb
